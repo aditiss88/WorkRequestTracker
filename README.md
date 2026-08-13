@@ -16,13 +16,12 @@ Backend built with ASP.NET Core, frontend with React + Vite.
 
 ## Setup
 
-### Backend
+### Backend and Frontend
 ```terminal
 cd WorkRequestTracker.Api
 dotnet restore
 dotnet run
 
-### Frontend
 ```terminal
 cd work-request-tracker-ui
 npm install
