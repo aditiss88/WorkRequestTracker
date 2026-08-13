@@ -26,3 +26,5 @@ dotnet run
 cd work-request-tracker-ui
 npm install
 npm run dev
+
+For detailed endpoint design, see [API_Blueprints.md](./API_Blueprints.md).
